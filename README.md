@@ -1,32 +1,201 @@
-<h1 align="center">Hi 👋, I'm Dev Bhushan Bhatta</h1>
-<h3 align="center">I'm a Software Engineering student from Shankhamul, Kathmandu, Nepal.</h3>
+<div align="center">
+  
+# 👨‍💻 Hi there, I'm Dev Bhushan Bhatta 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan791&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan791" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;Cloud+Enthusiast;IoT+%26+Robotics+Explorer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushan791" alt="bhushan791" /></a> </p>
+### 🌟 Software Engineering Student from Shankhamul, Kathmandu, Nepal 🇳🇵
 
-- 🔭 I’m currently working on [My Realtime chat App](https://github.com/Bhushan791/Chat_app.git)
+<br>
 
-- 🌱 I’m currently learning **Django for backend development, designing intuitive interfaces with Figma, building cloud expertise through the AWS Solution Architect path, and exploring innovative technologies in IoT and Robotics.**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhushan791&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/bhushan791?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d9ff?style=for-the-badge" alt="Focus" />
+</div>
 
-- 💬 Ask me about **Anything! If I don’t know it yet, I’ll gladly learn it.**
+<br>
 
-- 📫 How to reach me **bhushanbhatta777@gmail.com**
+---
 
-- ⚡ Fun fact **I weirdly enjoy taking on big tasks and finishing them super fast — it’s like my personal speedrun challenge! 😄💻**
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhushan791&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@bhushan_bhatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bhushan_bhatta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev bhushan bhatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev bhushan bhatta" height="30" width="40" /></a>
-<a href="https://fb.com/bhushan bhatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhushan bhatta" height="30" width="40" /></a>
-<a href="https://instagram.com/bhushan_bhatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhushan_bhatta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhushan00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhushan00" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushan791&show_icons=true&locale=en&layout=compact" alt="bhushan791" /></p>
+<div align="center">
+  
+## 🚀 What I'm Up To
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushan791&show_icons=true&locale=en" alt="bhushan791" /></p>
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔭 Currently Working On
+**[My Realtime Chat App](https://github.com/Bhushan791/Chat_app.git)**
+
+*Building seamless real-time communication experiences*
+
+</td>
+<td align="center" width="50%">
+
+### 🌱 Currently Learning
+- **Django** for robust backend development
+- **Figma** for intuitive UI/UX design  
+- **AWS Solution Architect** certification path
+- **IoT & Robotics** innovative technologies
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 💡 About Me
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💬 Ask Me About
+**Anything!** 
+
+*If I don't know it yet, I'll gladly learn it.*
+
+</td>
+<td align="center" width="33%">
+
+### 📫 Reach Me At
+**bhushanbhatta777@gmail.com**
+
+*Always open to interesting conversations!*
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ Fun Fact
+**I weirdly enjoy taking on big tasks and finishing them super fast**
+
+*It's like my personal speedrun challenge!* 😄💻
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/@bhushan_bhatta" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/dev bhushan bhatta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/bhushan bhatta" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/bhushan_bhatta" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.leetcode.com/bhushan00" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</div>
+
+<br>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
+
+### 🌐 Web Technologies  
+<img src="https://skillicons.dev/icons?i=django,flask,bootstrap" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,git" />
+
+### 🎨 Design & Database
+<img src="https://skillicons.dev/icons?i=figma,mysql,sqlite" />
+
+### 🔧 Other Tools
+<img src="https://skillicons.dev/icons?i=opencv" />
+
+</div>
+
+<br>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=bhushan791&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan791&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan791&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan791&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f0f6fc&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ✨ *"Code is like humor. When you have to explain it, it's bad."* ✨
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer Wave" />
+</div>
+
+</div>
