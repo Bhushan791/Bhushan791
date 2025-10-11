@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bhushan791&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/bhushan791?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d9ff?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-00d9ff?style=for-the-badge" alt="Focus" />
 </div>
 
 <br>
@@ -37,19 +37,15 @@
 <tr>
 <td align="center" width="50%">
 
-### 🔭 Currently Working On
-**[My Realtime Chat App](https://github.com/Bhushan791/Chat_app.git)**
-
-*Building seamless real-time communication experiences*
 
 </td>
 <td align="center" width="50%">
 
 ### 🌱 Currently Learning
-- **Django** for robust backend development
-- **Figma** for intuitive UI/UX design  
-- **AWS Solution Architect** certification path
-- **IoT & Robotics** innovative technologies
+- **dotnet** backend development 
+- **Data science**   
+- **Express js** backend development
+- **Flutter** Mobile app development
 
 </td>
 </tr>
@@ -129,19 +125,21 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,dart,c++,c#" />
 
 ### 🌐 Web Technologies  
-<img src="https://skillicons.dev/icons?i=django,flask,bootstrap" />
+<img src="https://skillicons.dev/icons?i=django,flask,bootstrap,express" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,git" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,clooudinary,render" />
 
 ### 🎨 Design & Database
-<img src="https://skillicons.dev/icons?i=figma,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=figma,mysql,sqlite,sqlserver,postgresql,mongodb" />
 
-### 🔧 Other Tools
-<img src="https://skillicons.dev/icons?i=opencv" />
+### 🔧 Data Science Tools
+<img src="https://skillicons.dev/icons?i=numpy" /> 
+<img src="https://skillicons.dev/icons?i=pandas" /> 
+<img src="https://skillicons.dev/icons?i=matplotlib" /> 
 
 </div>
 
