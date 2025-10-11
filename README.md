@@ -119,7 +119,6 @@
 <br>
 
 ---
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -131,19 +130,15 @@
 <img src="https://skillicons.dev/icons?i=django,flask,bootstrap,express" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,git,clooudinary,render" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,cloudinary,render" />
 
 ### 🎨 Design & Database
 <img src="https://skillicons.dev/icons?i=figma,mysql,sqlite,sqlserver,postgresql,mongodb" />
 
 ### 🔧 Data Science Tools
-<img src="https://skillicons.dev/icons?i=numpy" /> 
-<img src="https://skillicons.dev/icons?i=pandas" /> 
-<img src="https://skillicons.dev/icons?i=matplotlib" /> 
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 
 </div>
-
-<br>
 
 ---
 
