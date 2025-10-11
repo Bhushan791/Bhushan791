@@ -3,7 +3,7 @@
 # 👨‍💻 Hi there, I'm Dev Bhushan Bhatta 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;Cloud+Enthusiast;IoT+%26+Robotics+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer;Data+Science+Explorer;Cloud+Enthusiast;IoT+%26+Robotics+Explorer" alt="Typing SVG" />
 </div>
 
 ### 🌟 Software Engineering Student from Shankhamul, Kathmandu, Nepal 🇳🇵
