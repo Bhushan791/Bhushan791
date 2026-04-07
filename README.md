@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00bfff&height=180&section=header&text=Dev%20Bhushan%20Bhatta&fontSize=42&fontColor=00bfff" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00bfff&height=180&section=header&text=Vynn&fontSize=42&fontColor=00bfff" />
 ### ⚡ Backend Engineer • AIML • IoT Systems  
 **Kathmandu, Nepal 🇳🇵**
 
